@@ -11,12 +11,15 @@ In this project, you will design the tables to hold data in the CSVs, import the
 
 ## Data Modeling 
 
+
 An ERD of the tables: 
+
 
 ![EmployeeSQL ERD](https://user-images.githubusercontent.com/55970064/93844114-bd872780-fc61-11ea-8a98-72d98071d7a2.png)
 
 
 ## Data Analysis
+
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
@@ -41,4 +44,24 @@ An ERD of the tables:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+
+## Bonus
+
+
+As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
+
+
+1. Import the SQL database into Pandas. 
+
+
+2. Create a histogram to visualize the most common salary ranges for employees.
+
+
+![histogram](https://user-images.githubusercontent.com/55970064/93844262-35ede880-fc62-11ea-89cc-aab4930e824b.png)
+
+
+3. Create a bar chart of average salary by title.
+
+
+![average_salary_bar](https://user-images.githubusercontent.com/55970064/93844277-41d9aa80-fc62-11ea-8ee9-ac0fdbd113e8.png)
 
