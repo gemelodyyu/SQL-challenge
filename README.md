@@ -57,11 +57,12 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 2. Create a histogram to visualize the most common salary ranges for employees.
 
 
-![histogram](https://user-images.githubusercontent.com/55970064/93844262-35ede880-fc62-11ea-89cc-aab4930e824b.png)
+![histogram](https://user-images.githubusercontent.com/55970064/93844809-148dfc00-fc64-11ea-946a-5cd7657e7718.png)
 
 
 3. Create a bar chart of average salary by title.
 
 
-![average_salary_bar](https://user-images.githubusercontent.com/55970064/93844277-41d9aa80-fc62-11ea-8ee9-ac0fdbd113e8.png)
+![average_salary_bar](https://user-images.githubusercontent.com/55970064/93844826-1f489100-fc64-11ea-9d49-5b6aac16f280.png)
+
 
