@@ -9,7 +9,10 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 In this project, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
 
 
-## Data Modeling 
+## Analysis precedure
+
+
+### Data Modeling 
 
 
 An ERD of the tables: 
@@ -18,7 +21,7 @@ An ERD of the tables:
 ![EmployeeSQL ERD](https://user-images.githubusercontent.com/55970064/93844114-bd872780-fc61-11ea-8a98-72d98071d7a2.png)
 
 
-## Data Analysis
+### Data Analysis
 
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
