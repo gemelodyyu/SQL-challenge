@@ -9,7 +9,10 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 In this project, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
 
 
-## Data Modeling 
+## Analysis precedure
+
+
+### Data Modeling 
 
 
 An ERD of the tables: 
@@ -18,7 +21,7 @@ An ERD of the tables:
 ![EmployeeSQL ERD](https://user-images.githubusercontent.com/55970064/93844114-bd872780-fc61-11ea-8a98-72d98071d7a2.png)
 
 
-## Data Analysis
+### Data Analysis
 
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
@@ -57,11 +60,15 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 2. Create a histogram to visualize the most common salary ranges for employees.
 
 
-![histogram](https://user-images.githubusercontent.com/55970064/93844262-35ede880-fc62-11ea-89cc-aab4930e824b.png)
+![histogram](https://user-images.githubusercontent.com/55970064/93844809-148dfc00-fc64-11ea-946a-5cd7657e7718.png)
 
 
 3. Create a bar chart of average salary by title.
 
 
-![average_salary_bar](https://user-images.githubusercontent.com/55970064/93844277-41d9aa80-fc62-11ea-8ee9-ac0fdbd113e8.png)
+![average_salary_bar](https://user-images.githubusercontent.com/55970064/93844826-1f489100-fc64-11ea-9d49-5b6aac16f280.png)
+
+
+**This data cannot be real! The average salary by title makes no sense!**
+
 
